@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FFContacts</string>
+    <string name="illustration">欢迎来到葫芦娃电话簿</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话</string>
+
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    
+    <string name="input">导入联系人</string>
+    <string name="output">导出联系人</string>
+
+    <string name="add_success">添加成功</string>
+    <string name="delete_success">删除成功</string>
+    
+    <string name="confirm">确认</string>
+    <string name="update_success">电话簿更新成功</string>
+</resources>
